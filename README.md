@@ -35,7 +35,7 @@ $ cd $PROJECT_HOME/data/speech_data
 
 $ wget -c https://www.openslr.org/resources/33/data_aishell.tgz
 
-$ tar zxf data_aishell.tgz -C /data/speech_data/
+$ tar zxf data_aishell.tgz -C $PROJECT_HOME/data/speech_data/
 
 $ cd data_aishell/wav
 
