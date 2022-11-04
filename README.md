@@ -5,8 +5,8 @@
 ### 硬體
 * CPU: 4核 (x86_64, amd64) +
 * RAM: 16 GB +
-* GPU: NVIDIA, Graph Memory 11GB+ (1080ti起步)
-* HDD: 500 GB 机械硬盘(或固态硬盘)
+* GPU: NVIDIA, Graph Memory 11GB+ (1080ti)
+* HDD: 500 GB
 
 ### 軟體
 * Linux: Ubuntu 18.04 + / CentOS 7 +
