@@ -1,0 +1,32 @@
+{
+    "dict_filename": "dict.txt",
+
+    "dataset":{
+        "train":[
+            {
+                "name": "aishell_train",
+                "data_list": "datalist/aishell/train.wav.lst",
+                "data_path": "/home/py/Workspace/MyProjects/asr-mandarin/data/speech_data",
+                "label_list": "datalist/aishell/train.syllable.txt"
+            }
+        ],
+
+        "dev":[
+            {
+                "name": "aishell_dev",
+                "data_list": "datalist/aishell/dev.wav.lst",
+                "data_path": "/home/py/Workspace/MyProjects/asr-mandarin/data/speech_data",
+                "label_list": "datalist/aishell/dev.syllable.txt"
+            }
+        ],
+
+        "test":[
+            {
+                "name": "aishell_test",
+                "data_list": "datalist/aishell/test.wav.lst",
+                "data_path": "/home/py/Workspace/MyProjects/asr-mandarin/data/speech_data",
+                "label_list": "datalist/aishell/test.syllable.txt"
+            }
+        ]
+    }
+}
